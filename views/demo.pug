@@ -1,0 +1,39 @@
+doctype html
+html
+	head
+		title JS Overlay Menu
+		link(rel='stylesheet' href='/stylesheets/demo.css')
+		link(href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet")
+		script(src='/javascripts/jquery-3.2.1.min.js')
+		
+	body
+		h1 Overlay
+
+		//menu button
+		div.button
+			a(href='#' id='btn-menu' class='btn-open')
+
+		//Overlay
+		div.overlay
+			div.nav-container
+				div.nav-col
+					h2 About
+					ul
+						li #[a(href='#') item]
+						li #[a(href='#') item]
+						li #[a(href='#') item]
+				div.nav-col
+					h2 Contact
+					ul
+						li #[a(href='#') item]
+						li #[a(href='#') item]
+						li #[a(href='#') item]
+				div.nav-col
+					h2 Work
+					ul
+						li #[a(href='#') Html5]
+						li #[a(href='#') css3]
+						li #[a(href='#') Javascript]
+	script(src='/javascripts/demo.js')
+
+
