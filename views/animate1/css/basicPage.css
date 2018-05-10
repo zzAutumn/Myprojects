@@ -1,0 +1,18 @@
+.para1 {
+	margin: 20px 0 30px 20px;
+	font-size: 20px;
+}
+
+.img {
+	text-align: center;
+	margin: 60px 0;
+}
+
+a {
+	text-decoration: none;
+	cursor: pointer;
+	color: yellow;
+	padding-bottom: 30px;
+	padding-left: 20px;
+	font-size: 30px;
+}

@@ -1,8 +1,22 @@
-docotype
-	html
-		head
-			title demo
-			script(src='/javascripts/jquery-3.2.1.min.js')
-			script(src='/javascripts/demo1.js')
-		body
-			h1 demo
+doctype html
+html
+	head
+		title demo
+		link(href='/stylesheets/demo1.css' rel='stylesheet')
+		script(src='/javascripts/jquery-3.2.1.min.js')
+		script(src='/javascripts/demo1.js')
+	body
+		h1.head demo
+		p para1
+		p para2
+		p para3
+		ul
+			li item1
+			li item2
+			li item3
+		div Zero-th #[span]
+		div First #[span]
+		div Second #[span]
+		input(id='check1' type='checkbox' checked='checked')
+		label(for='check1') check me
+		p(id='check-para')

@@ -1,0 +1,15 @@
+body {
+	padding: 0;
+	margin: 0;
+	background-color: salmon;
+}
+
+/*h1 head*/
+.head {
+	margin-top: 40px;
+	text-align: center;
+	font-family: "Helvetica Neue","Hiragino Sans GB","PingFang SC","Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;;
+}
+
+
+
