@@ -1,0 +1,26 @@
+[
+{
+  "name": "tom",
+  "species": "cat",
+  "foods": {
+    "likes": ["tuna","catnip"],
+    "dislikes": ["ham","zucchini"]
+  }
+},
+{
+  "name": "Barky",
+  "species": "dog",
+  "foods": {
+    "likes": ["bones","carrots"],
+    "dislikes": ["tuna"],
+  }
+},
+{
+  "name": "Tom",
+  "species": "dog",
+  "foods": {
+    "likes": ["meat","hams"],
+    "dislikes": ["carrots"],
+  }
+}
+]
