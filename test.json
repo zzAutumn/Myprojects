@@ -8,14 +8,6 @@
   }
 },
 {
-  "name": "Barky",
-  "species": "dog",
-  "foods": {
-    "likes": ["bones","carrots"],
-    "dislikes": ["tuna","hams"]
-  }
-},
-{
   "name": "Tom",
   "species": "dog",
   "foods": {
